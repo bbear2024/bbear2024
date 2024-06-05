@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Pei
 
 <!--
 **bbear2024/bbear2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently attending Bootcamp at Spiced Academy
+- 🌱 I’m currently learning Python, SQL, Tableau
+- 🤔 I’m looking for a job as Data Analyst
+- 📫 How to reach me: huang@live.de
